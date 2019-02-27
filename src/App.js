@@ -22,7 +22,7 @@ import ListItemIcon from "@material-ui/core/ListItemIcon";
 import ListItemText from "@material-ui/core/ListItemText";
 import ListSubheader from "@material-ui/core/ListSubheader";
 import LocationCityIcon from "@material-ui/icons/LocationCity";
-import SearchIcon from "@material-ui/icons/Search";
+import AddIcon from "@material-ui/icons/Add";
 import SimpleLineChart from "./components/SimpleLineChart";
 import SimpleTable from "./components/SimpleTable";
 import Overview from "./components/Overview";
@@ -234,10 +234,10 @@ class App extends React.Component {
               />
               <IconButton
                 className={classes.iconButton}
-                aria-label="Search"
+                aria-label="Add"
                 onClick={this.handleAdd}
               >
-                <SearchIcon />
+                <AddIcon />
               </IconButton>
             </Paper>
           </Toolbar>
