@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/WeatherAPP/static/media/lightning.9ddb6fe6.jpg"
   },
   {
-    "revision": "d77839ffbb4d72580920",
+    "revision": "69467ca718cadc0b0831",
     "url": "/WeatherAPP/static/css/main.a952a449.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/WeatherAPP/static/js/runtime~main.3dda21d9.js"
   },
   {
-    "revision": "ed70a49d19f760322c64",
-    "url": "/WeatherAPP/static/js/2.ed70a49d.chunk.js"
+    "revision": "b2f8c430d35144488cc7",
+    "url": "/WeatherAPP/static/js/2.b2f8c430.chunk.js"
   },
   {
     "revision": "cea21cb0213666191e2c561a3ea874a0",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/WeatherAPP/static/media/cloudy.24b05d02.jpg"
   },
   {
-    "revision": "d77839ffbb4d72580920",
-    "url": "/WeatherAPP/static/js/main.d77839ff.chunk.js"
+    "revision": "69467ca718cadc0b0831",
+    "url": "/WeatherAPP/static/js/main.69467ca7.chunk.js"
   },
   {
     "revision": "dff305838bcf306c7a47c373365dd150",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/WeatherAPP/static/media/rainy.f22feda6.jpg"
   },
   {
-    "revision": "2abcaf5e99ae4b34bf040cd5a84e28a5",
+    "revision": "28c980ff59caf3e0110606d868eefbf0",
     "url": "/WeatherAPP/index.html"
   }
 ];
