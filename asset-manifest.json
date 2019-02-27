@@ -1,0 +1,20 @@
+{
+  "main.css": "/WeatherAPP/static/css/main.a952a449.chunk.css",
+  "main.js": "/WeatherAPP/static/js/main.d77839ff.chunk.js",
+  "main.js.map": "/WeatherAPP/static/js/main.d77839ff.chunk.js.map",
+  "runtime~main.js": "/WeatherAPP/static/js/runtime~main.3dda21d9.js",
+  "runtime~main.js.map": "/WeatherAPP/static/js/runtime~main.3dda21d9.js.map",
+  "static/js/2.ed70a49d.chunk.js": "/WeatherAPP/static/js/2.ed70a49d.chunk.js",
+  "static/js/2.ed70a49d.chunk.js.map": "/WeatherAPP/static/js/2.ed70a49d.chunk.js.map",
+  "index.html": "/WeatherAPP/index.html",
+  "precache-manifest.8154b87a2d2aa9a16fdffb02d805c090.js": "/WeatherAPP/precache-manifest.8154b87a2d2aa9a16fdffb02d805c090.js",
+  "service-worker.js": "/WeatherAPP/service-worker.js",
+  "static/css/main.a952a449.chunk.css.map": "/WeatherAPP/static/css/main.a952a449.chunk.css.map",
+  "static/media/cloudy.jpg": "/WeatherAPP/static/media/cloudy.24b05d02.jpg",
+  "static/media/lightning.jpg": "/WeatherAPP/static/media/lightning.9ddb6fe6.jpg",
+  "static/media/mist.jpg": "/WeatherAPP/static/media/mist.dff30583.jpg",
+  "static/media/overcast.jpg": "/WeatherAPP/static/media/overcast.bbf6726e.jpg",
+  "static/media/rainy.jpg": "/WeatherAPP/static/media/rainy.f22feda6.jpg",
+  "static/media/snowy.jpg": "/WeatherAPP/static/media/snowy.5e7460de.jpg",
+  "static/media/sunny.jpg": "/WeatherAPP/static/media/sunny.cea21cb0.jpg"
+}
