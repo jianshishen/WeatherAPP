@@ -29,7 +29,7 @@ import Overview from "./components/Overview";
 import axios from "axios";
 
 const api =
-  "https://api.apixu.com/v1/forecast.json?key=bf70b48b276d47cb9f323436190204&q=Shanghai&days=7";
+  "https://api.apixu.com/v1/forecast.json?key=<Your API Key>&q=Shanghai&days=7";
 
 const drawerWidth = 230;
 
@@ -151,7 +151,7 @@ class App extends React.Component {
   async request(city) {
     if (typeof this.props.data[city] === "undefined") {
       try {
-        const baseapi = `https://api.apixu.com/v1/forecast.json?key=bf70b48b276d47cb9f323436190204&q=${city}&days=7`;
+        const baseapi = `https://api.apixu.com/v1/forecast.json?key=<Your API Key>&q=${city}&days=7`;
         const { data } = await axios.get(baseapi);
         this.props.addData({ city: data.location.name, data });
         this.props.changeCity({ currentcity: city });
