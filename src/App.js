@@ -29,7 +29,7 @@ import Overview from "./components/Overview";
 import axios from "axios";
 
 const api =
-  "https://api.apixu.com/v1/forecast.json?key=56a90074d49e4f6081095437192301&q=Shanghai&days=7";
+  "https://api.apixu.com/v1/forecast.json?key=<Your API Key>&q=Shanghai&days=7";
 
 const drawerWidth = 230;
 
