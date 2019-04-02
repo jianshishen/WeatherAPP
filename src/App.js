@@ -151,7 +151,7 @@ class App extends React.Component {
   async request(city) {
     if (typeof this.props.data[city] === "undefined") {
       try {
-        const baseapi = `https://api.apixu.com/v1/forecast.json?key=56a90074d49e4f6081095437192301&q=${city}&days=7`;
+        const baseapi = `https://api.apixu.com/v1/forecast.json?key=<Your API Key>&q=${city}&days=7`;
         const { data } = await axios.get(baseapi);
         this.props.addData({ city: data.location.name, data });
         this.props.changeCity({ currentcity: city });
